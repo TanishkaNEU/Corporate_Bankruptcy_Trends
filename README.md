@@ -7,9 +7,9 @@ This project tackles the critical challenge of predicting corporate bankruptcy u
 
 ### Repository Contents
 
--   `data/`: Contains the dataset in ARFF format used for the analysis.
--   `code/`: Google Colab notebook (`.ipynb`) with all the coding and analysis performed in a cloud environment.
--   `docs/`: Includes the Final Project Report in PDF format which outlines the comprehensive analysis, methodology, results, and conclusions of the project.
+-   `.arff files`: Contains the dataset in ARFF format used for the analysis.
+-   `Project_Bankruptcy_code.ipynb`: Google Colab notebook (`.ipynb`) with all the coding and analysis performed in a cloud environment.
+-   `final project report`: Includes the Final Project Report in PDF format which outlines the comprehensive analysis, methodology, results, and conclusions of the project.
 
 ### Data Description
 
